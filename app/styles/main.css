@@ -1,0 +1,9 @@
+/* Your application styles go here */
+
+#map {
+	min-height: 100% !important;
+}
+
+.scroll-content > .scroll {
+  height: 100%;
+}
